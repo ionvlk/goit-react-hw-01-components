@@ -1,4 +1,4 @@
-// import React from 'react';
+
 import PropTypes from "prop-types";
 import { StatContainer, Title, StatList, StatItem, Label, Percentage } from './Statistics.styled';
 

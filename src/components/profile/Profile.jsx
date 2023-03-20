@@ -38,28 +38,3 @@ Profile.propTypes = {
     likes: PropTypes.number.isRequired,
   }),
 };
-
-
-
-/* <ProfileContainer>
-    <DescriptionContainer>
-      <Avatar src={avatar} alt="User avatar" />
-      <Name>{username}</Name>
-      <Tag>{tag}</Tag>
-      <Location>{location}</Location>
-    </DescriptionContainer>
-    <StatsContainer>
-      <Stat>
-        <Label>Flowers</Label>
-        <Quantity>{flowers}</Quantity>
-      </Stat>
-      <Stat>
-        <Label>Views</Label>
-        <Quantity>{views}</Quantity>
-      </Stat>
-      <Stat>
-        <Label>Likes</Label>
-        <Quantity>{likes}</Quantity>
-      </Stat>
-    </StatsContainer>
-  </ProfileContainer> */

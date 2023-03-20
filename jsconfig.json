@@ -1,16 +1,6 @@
-// {
-//   "compilerOptions": {
-//     "baseUrl": "src"
-//   },
-//   "include": ["src"]
-// }
 {
   "compilerOptions": {
-    "baseUrl": "src",
-    "outDir": "dist",
-    "module": "commonjs",
-    "target": "es6",
-    "lib": ["es2015", "dom"]
+    "baseUrl": "src"
   },
-  "include": ["src/**/*"]
+  "include": ["src"]
 }
